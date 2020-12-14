@@ -21,11 +21,11 @@ Considering the limited time, we split this session into two parts: Common Skill
 
 Common Skills:
 1. Load & Save various data types.
-2. Jet Image Plotting
-3. Train test split.
+2. Learning features
+3. Jet Image Plotting.
+4. Train test split.
 
 Advanced Skills:
 1. Downsizing data with a specific ratio.
 2. N-constituents of Jets.
 3. Jet Clustering & Rotating.
-4. Supplementations.
