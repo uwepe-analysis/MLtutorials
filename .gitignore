@@ -1,0 +1,4 @@
+*.z
+*.pdf
+*-checkpoint.ipynb
+*.pyc
