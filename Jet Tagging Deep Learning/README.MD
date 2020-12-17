@@ -3,7 +3,7 @@
 <pre>
 EPE Tutorial - Data Preprocessing
 Collaborators:  River Liu       liul29@uw.edu
-                Htet Aung Myin   
+                Htet Aung Myin   hamyin@uw.edu
 </pre>
 
 ## Download Dataset for This Part of Tutorial 
