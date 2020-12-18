@@ -2,3 +2,4 @@
 *.pdf
 *-checkpoint.ipynb
 *.pyc
+train.h5
