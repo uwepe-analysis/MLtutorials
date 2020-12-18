@@ -9,7 +9,7 @@ Collaborators:  River Liu       liul29@uw.edu
 ## Download Dataset for This Part of Tutorial 
 
 [Dataset](https://cernbox.cern.ch/index.php/s/AgzB93y3ac0yuId?path=%2Ffixed)
-**Download the first one ending with `withPars_truth_0.z`**
+**Head into the first folder called "fixed" and download the first one ending with `withPars_truth_0.z`**
 
 *Be sure to follow [anaconda setup](https://github.com/451488975/Anaconda_Setup) to setup a virtual environment and get most of the required packages for this tutorial.*
 
